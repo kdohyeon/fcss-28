@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: fcss-28
+
+server:
+  port: 9090
